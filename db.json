@@ -3,27 +3,32 @@
     {
       "id": 1,
       "name": "Sweet Child of Mine",
-      "BPM": 123
+      "BPM": 123,
+      "url": "https://www.youtube.com/watch?v=1w7OgIMMRc4"
     },
     {
       "id": 2,
       "name": "Perfect",
-      "BPM": 63
+      "BPM": 63,
+      "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
     },
     {
       "id": 3,
       "name": "Bohemian Rhapsody",
-      "BPM": 72
+      "BPM": 72,
+      "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
     },
     {
       "id": 4,
       "name": "Blinding Lights",
-      "BPM": 172
+      "BPM": 172,
+      "url": "https://www.youtube.com/watch?v=fHI8X4OXluQ"
     },
     {
       "id": 5,
       "name": "Earfquake",
-      "BPM": 80
+      "BPM": 80,
+      "url": "https://www.youtube.com/watch?v=HmAsUQEFYGI"
     }
   ]
 }
